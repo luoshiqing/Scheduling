@@ -1,0 +1,24 @@
+PODS:
+  - MJRefresh (3.1.15.7)
+  - MSColorPicker (1.0.1)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - MJRefresh
+  - MSColorPicker
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJRefresh
+    - MSColorPicker
+    - SnapKit
+
+SPEC CHECKSUMS:
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  MSColorPicker: 90b8663b99d6c5c3ba10ccfaa4a600b844f8738e
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 52751447db8a858f85ad4c605ddcf99d9bb2e2c3
+
+COCOAPODS: 1.5.3
